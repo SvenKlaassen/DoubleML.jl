@@ -3,6 +3,9 @@ uuid = "c76736e9-d34a-4f84-b839-0c1c8c9ea059"
 authors = ["Sven Klaassen"]
 version = "0.0.1-DEV"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
 [compat]
 julia = "1"
 
