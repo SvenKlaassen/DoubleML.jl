@@ -1,7 +1,7 @@
 name = "DoubleML"
 uuid = "c76736e9-d34a-4f84-b839-0c1c8c9ea059"
 authors = ["Sven Klaassen"]
-version = "1.0.0-DEV"
+version = "0.0.1-DEV"
 
 [compat]
 julia = "1"

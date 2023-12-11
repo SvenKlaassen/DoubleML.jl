@@ -2,5 +2,6 @@ using DoubleML
 using Test
 
 @testset "DoubleML.jl" begin
-    # Write your tests here.
+    @test DoubleML.greet_DoubleML() == "Hello DoubleML!"
+    @test DoubleML.greet_DoubleML() == "Hello DoubleML!2"
 end

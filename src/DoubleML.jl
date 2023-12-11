@@ -1,5 +1,6 @@
 module DoubleML
 
-# Write your package code here.
+export greet_DoubleML
+include("functions.jl")
 
 end
